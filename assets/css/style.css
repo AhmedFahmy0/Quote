@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(75, 75, 166, 0.51);
+}
+.container{
+    background-color: rgba(51, 34, 142, 0.637);
+border: 10px solid gold;
+border-style: inset;
+color: gold;
+}
+
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+
+
+
+p{
+    font-size: 35px;
+}
+
